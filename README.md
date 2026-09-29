@@ -1,3 +1,7 @@
+## Chrome: https://chromewebstore.google.com/detail/what-is-that/kgelokoepjlgklobmpnbckppkcgpdndh
+## Firefox: https://addons.mozilla.org/en-US/firefox/addon/what-is-that/
+
+
 # What IS THAT?
 Highlight text to get instant AI explanations. Chrome extension.
 
